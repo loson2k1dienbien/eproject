@@ -1,5 +1,5 @@
 #header-faqs{
-	background-image: url("../img/images project/faq.png");
+	background-image: url("../img/faq.png");
 	background-size:cover;
 	padding: 150px 0;
 	background-repeat: no-repeat;
@@ -94,7 +94,7 @@ a:hover {
   margin-top: 40px;
 }
 
-.active, .accordion:hover {
+ .accordion:hover {
   background-color: #ccc;
 }
 
@@ -107,9 +107,7 @@ a:hover {
   font-size: 18px;
 }
 
-.active:after {
-  content: "\2212";
-}
+
 
 .panel {
   padding: 0 18px;
