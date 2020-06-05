@@ -3,6 +3,7 @@
 }
 #error img{
 	margin-top: 10%;
+    width: 100%;
 }
 #error h2{
 	line-height: 30px;

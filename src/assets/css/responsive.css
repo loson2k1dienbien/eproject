@@ -425,9 +425,15 @@ ul{
 }
 .vt-video {
     position: relative;
-    margin-top: -500px  !important;;
+    margin-top: -400px  !important;;
     align-items: center;
     overflow: hidden;
+        height: 410px;
+}
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
 }
   .main-loc-text p {
     font-size: 9px;
