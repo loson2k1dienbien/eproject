@@ -1,0 +1,398 @@
+@media  screen and (max-width: 320px)
+{	
+	.video-play-banner:after {
+		width: 85px;
+		height: 85px;
+	}
+	.icon-banner{
+		height: 36%;
+	}
+	.text-banner h6{
+		font-size: 12px;
+		line-height:15px;
+		font-family: 'Lato', sans-serif;
+		margin: 0;
+		padding: 0;
+		letter-spacing: 0.2px;
+		font-weight: 300;
+	}
+	.img-banner{
+		height: 600px;
+	}
+	.banner{
+		height: 600px;
+	}
+	.search-option{
+		position: absolute;
+		top:700px;
+	}
+	#about-home .nav-fill {
+     width: 100%; 
+	}
+	.tab-content{
+		padding:0;
+	}
+	.max-live{
+		margin-top: 850px;
+	}
+	#amazing{
+		margin-top: 900px;
+	}
+	.amazing-img{
+		display: none;
+	}
+	.text-amazing{
+		padding-bottom: 200px;
+		position: relative;
+		z-index: 999
+	}
+	#img-animation {
+    	position: absolute;
+    	top: 50%;
+    	left: 26px;
+	}
+	.icon-group {
+    	display: flex;
+    	position: absolute;
+    	top: 68%;
+    	width:100%;
+    	left: 3px;
+	}
+	.button-icon{
+		width: 60px;
+		height: 60px;
+		font-size: 13px;
+	}
+	.bt-6 {
+    position: absolute;
+    bottom: -24px;
+    left: 24%;
+	}
+	#contact-homepage{
+		display: none;
+	}
+	.quote {
+    position: absolute;
+    right: 170px;
+    top: -26px;
+    z-index: 4;
+}
+}
+@media (max-width: 374px) and (min-width: 320px)
+{	
+	.video-play-banner:after {
+		width: 85px;
+		height: 85px;
+	}
+	.text-banner h1{
+		font-size: 25px;
+		line-height: 35px;
+	}
+	.text-banner h6{
+		font-size: 12px;
+		line-height:15px;
+		font-family: 'Lato', sans-serif;
+		margin: 0;
+		padding: 0;
+		letter-spacing: 0.25px;
+		font-weight: 300;
+	}
+	.box-slider{
+		left:0;
+		position: absolute;
+		top:10%;
+	}
+	.video-play-banner{
+		position: absolute;
+		top:-60px;
+		left: 200px;
+		font-size: 16px;
+    	height: 65px;
+    	width: 65px;
+    	line-height: 65px;
+	}
+	.video-play-banner a{
+		color:#ff9d33;
+		position: absolute;
+		top:2px;
+		left: 27px;
+	}
+	.img-banner{
+		height: 600px;
+	}
+	.banner{
+		height: 600px;
+	}
+	.search-option{
+		position: absolute;
+		top:700px;
+	}
+	#about-home .nav-fill {
+     width: 100%; 
+	}
+	.tab-content{
+		padding:0;
+	}
+	.max-live{
+		margin-top: 850px;
+	}
+	#amazing{
+		margin-top: 900px;
+		padding-bottom: 85px;
+	}
+	.amazing-img{
+		display: none;
+	}
+	.text-amazing{
+		padding-bottom: 200px;
+		position: relative;
+		z-index: 999
+	}
+	#img-animation {
+    	position: absolute;
+    	top: 50%;
+    	left: 26px;
+	}
+	.icon-group {
+    display: flex;
+    position: absolute;
+    top: 69%;
+    width: 95%;
+    left: 15px;
+	}
+	.button-icon{
+		width: 60px;
+		height: 60px;
+		font-size: 13px;
+	}
+	.bt-6 {
+    	position: absolute;
+    	bottom: -24px;
+    	left: 21%;
+    }
+    #contact-homepage{
+		display: none;
+	}
+}
+@media (max-width: 424px) and (min-width: 375px)
+{
+	.video-play-banner:after {
+		width: 85px;
+		height: 85px;
+	}
+	.video-play-banner a{
+		color:#ff9d33;
+		position: absolute;
+		top:2px;
+		left: 27px;
+	}
+	.video-play-banner{
+		position: absolute;
+		top:-60px;
+		left: 250px;
+		font-size: 18px;
+    	height: 65px;
+    	width: 65px;
+    	line-height: 65px;
+	}
+	#about-home .nav-fill {
+    	width: 100%; 
+	}
+	.tab-content{
+		padding:0;
+	}
+	#amazing{
+		padding-bottom: 120px;
+	}
+	.amazing-img{
+		display: none;
+	}
+	.text-amazing{
+		padding-bottom: 200px;
+		position: relative;
+		z-index: 999
+	}
+	#img-animation {
+    	position: absolute;
+    	top: 50%;
+    	left: 11%;
+	}
+	.icon-group {
+    	display: flex;
+    	position: absolute;
+    	top: 77%;
+    	width: 91%;
+    	left: 6%;
+	}
+	.button-icon{
+		width: 60px;
+		height: 60px;
+		font-size: 13px;
+	}
+	.bt-6 {
+    	position: absolute;
+      	bottom: -24px;
+     	left: 28%;
+	}
+	#contact-homepage{
+		display: none;
+	}
+}
+@media (max-width: 767px) and (min-width: 425px){
+	.video-play-banner:after {
+		width: 100px;
+		height: 100px;
+	}
+	.img-banner{
+		height: 550px;
+	}
+	.banner{
+		height: 550px;
+	}
+	.video-play-banner{
+		position: absolute;
+		top:-60px;
+		left: 250px;
+		font-size: 20px;
+    	height: 80px;
+    	width: 80px;
+    	line-height: 65px;
+	}
+	.video-play-banner a{
+		color:#ff9d33;
+		position: absolute;
+		top:6px;
+		left: 32px;
+	}
+	.search-option{
+		position: absolute;
+		top:100px;
+	}
+	#about-home .nav-fill {
+     width: 100%; 
+	}
+	.tab-content{
+		padding:0;
+	}
+	.max-live{
+		margin-top: 250px;
+	}
+	.amazing-img{
+		display: none;
+	}
+	.text-amazing{
+		padding-bottom: 200px;
+		position: relative;
+		z-index: 999
+	}
+	#img-animation {
+    	position: absolute;
+    	top: 40%;
+    	left: 26%;
+    	width: 60%;
+	}
+	#amazing{
+		padding-bottom: 50px;
+	}
+	.icon-group {  
+    	display: flex;
+    	position: absolute;
+    	top: 68%;
+    	left: 22%;
+	}
+	.button-icon{
+		width: 60px;
+		height: 60px;
+		font-size: 13px;
+	}
+	.bt-6 {
+    position: absolute;
+    bottom: -24px;
+    left: 38%;
+	}
+	#contact-homepage{
+		display: none;
+	}
+	.quote {
+    position: absolute;
+    right: 307px;
+    top: -26px;
+    z-index: 4;
+	}
+}
+@media (min-width: 768px) and (max-width: 1023px){
+	.video-play-banner {
+    position: absolute;
+    top: 282px;
+    left: -90px;
+	}
+	#about-home{
+		padding: 0;
+	}
+	.search-option{
+		position: absolute;
+		top:100px;
+	}
+	#about-home .nav-fill {
+     width: 100%; 
+	}
+	.tab-content{
+		padding:0;
+	}
+	.max-live{
+		margin-top: 250px;
+	}
+	.amazing-img{
+		display: none;
+	}
+	.text-amazing{
+		padding-bottom: 200px;
+		position: relative;
+		z-index: 999
+	}
+	#img-animation {
+    	position: absolute;
+    	top: 40%;
+    	left: 200px;
+    	width: 50%;
+	}
+	#amazing{
+		padding-bottom: 120px;
+	}
+	.icon-group {   
+    	display: flex;
+    	position: absolute;
+    	top: 68%;
+    	width: 100%;
+   		left: 143px;
+	}
+	.button-icon{
+		width: 80px;
+    	height: 80px;
+    	font-size: 19px;
+	}
+	.bt-6 {
+    position: absolute;
+    bottom: -24px;
+    left: 21%;
+	}
+	.quote {
+    position: absolute;
+    right: 151px;
+    top: -26px;
+    z-index: 4;
+}
+}
+@media (max-width: 1440px) and (min-width: 1024px){
+	.video-play-banner{
+		position: absolute;
+		top:40%;
+		left: 40%;
+	}
+	.quote {
+    position: absolute;
+    right: 270px;
+    top: -26px;
+    z-index: 4;
+}
+}

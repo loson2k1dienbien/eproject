@@ -1,0 +1,481 @@
+@media (min-width:1441px) {
+  .left-menu-pho {
+   width: 30%;
+
+ }
+ .login-area-move{
+  position: relative;
+}
+.login-area {
+  position: absolute;
+  right: 1.5rem;
+}
+.dislay-hotline{
+  display: none;
+} 
+ .client-info-rev {
+      display: flex;
+      margin-top: 30px;
+  }
+}
+@media (min-width:1441px) and (max-width: 1750px) {
+  .client-info-rev {
+      display: flex;
+      margin-top: 30px;
+  }
+  .left-menu-pho {
+   width: 30%;
+
+ }
+ .login-area-move{
+  position: relative;
+}
+.login-area {
+  position: absolute;
+  right: 1.5rem;
+}
+.dislay-hotline{
+  display: none;
+} 
+}
+@media (min-width: 1200px) and (max-width: 1440px) {
+ .client-info-rev {
+      display: flex;
+      margin-top: 30px;
+  }
+ .left-menu-pho {
+  width: 21%;
+} 
+.login-area-move{
+  position: relative;
+}
+.login-area {
+  position: absolute;
+  right: 1rem;
+}
+.dislay-hotline{
+  display: none;
+} 
+
+
+}
+@media (min-width: 992px) and (max-width:1199px) {
+ .client-info-rev {
+      display: flex;
+      margin-top: 30px;
+  }
+ .left-menu-pho{
+   width: 25%;
+   border-bottom: 84px solid #ff9d34;
+ } 
+ #top-heder-nav .navbar-nav{
+  margin-left: 0 !important;
+}
+.logo{
+  width: 6rem;
+  
+}
+#top-heder-nav .nav-link{
+
+}
+ul{
+  padding: 0px !important;
+}
+.login-area-move{
+  position: relative;
+}
+.login-area {
+  position: absolute;
+  right: 1.5rem;
+}
+.dislay-hotline{
+  display: none;
+} 
+.navbar-expand-lg{
+ 
+  padding-left: 15px !important;
+  padding-right: 6px !important;
+}
+
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .client-info-rev {
+      display: flex;
+      margin-top: 30px;
+  }
+  .ser-ab-deta {
+    padding-top: 3rem !important;
+}
+.clients-desnigation {
+    margin-left: 0px;
+}
+#padding-top .container {
+    padding-top: 2rem !important;
+}
+  .fone-size{
+    size: 2rem;
+  }
+  .left-menu-pho{
+   display: none;
+ }
+ #top-heder-nav .navbar-nav{
+  margin-left: 0 !important;
+}
+.logo{
+  width: 6rem;
+  
+}
+.navbar-toggler{
+  border-radius: 5px;
+}
+.main-loc-text p {
+  font-size: 14px;
+}
+.login-area{
+  font-size: 14px;
+} 
+.navbar-expand-lg{
+  padding: 5px !important;
+}
+#top-heder-nav .nav-link {
+  padding: 20px 5px;
+  border-bottom: 1px solid #fff;
+  width: 100%;
+  border-top: 1px solid #fff;
+  background: #ff9d341f;
+}
+#top-heder-nav .navbar-nav {
+ padding: 10px;
+ border-radius: 5px;
+}
+ul{
+  padding: 0px !important;
+}
+.login-area-move{
+  position: relative;
+}
+.login-area {
+  position: absolute;
+  right: 1.5rem;
+}
+.navbar-expand-lg{
+ 
+  padding-left: 15px !important;
+  padding-right: 6px !important;
+}
+
+}
+@media (max-width:767px) {
+    .al-img-at1 p {
+    font-size: 12px;
+    margin-left: 5px;
+}
+.al-img-at2 p {
+    margin-left: 4px;
+}
+ .al-img-at2 p {
+    font-size: 12px;
+    margin-left: 5px;
+}
+.al-img-at3 p {
+    margin-left: 4px;
+}
+ .al-img-at3 p {
+    font-size: 12px;
+    margin-left: 5px;
+}
+.al-img-at1 p {
+    margin-left: 4px;
+}
+.client-info-rev {
+      display: flex;
+      margin-top: 30px;
+  }
+  .clients-desnigation {
+    margin-left: 0px!important;
+}
+  .client-info-rev {
+    display: inherit;
+    margin-top: 30px;
+    text-align: center;
+}
+    .tour-main-informa h6 {
+    font-size: 0.8rem!important;
+}
+.tour-main-informa {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid #ff9d34;
+    padding: 0.7rem 0px;
+    margin-top: 2rem;
+}
+ .coa-app {
+   
+    margin-bottom: 20px;
+}
+  .ter-item-one {
+    text-align: center;
+    width: 18%;
+}
+.all-ineer-der-ter img {
+    padding-top: 30px;
+    width: 81%;
+}
+  .ser-ab-deta {
+    padding-top: 3rem !important;
+}
+#padding-top .container {
+    padding-top: 2rem !important;
+}
+.vt-video {
+    position: relative;
+    margin-top: -500px  !important;;
+    align-items: center;
+    overflow: hidden;
+}
+  .left-menu-pho {
+    width: 15%;
+    display:none;
+  }
+  .login-area a{
+   font-size: 9px;
+   color: #808080;
+   font-weight: 500;
+   padding-left: 1px;
+ }
+ #top-heder-nav .navbar-nav{
+  margin-left: 0 !important;
+}
+.logo{
+  width: 6rem;
+  
+}
+.navbar-expand-lg{
+ 
+  padding-left: 32px !important;
+  padding-right: 6px !important;
+}
+
+
+.main-loc-text p {
+  font-size: 9px;
+  margin-left: 2px  !important;
+}
+.login-area{
+ text-align: center;
+ font-size: 14px;
+}   
+.navbar-toggler{
+  border-radius: 5px;
+}
+#top-heder-nav .nav-link {
+  padding: 20px 5px;
+  border-bottom: 1px solid #fff;
+  width: 100%;
+  border-top: 1px solid #fff;
+  background: #ff9d341f;
+}
+#top-heder-nav .navbar-nav {
+ padding: 10px;
+ border-radius: 5px;
+}
+#footer-all-page{
+  padding: 20px 0!important;
+}
+.border-icon{
+ border-radius: 6px !important;
+ width: 22px !important;
+ height: 20px !important;
+ color: #013864;
+}
+ul{
+  padding: 0px !important;
+}
+.login-area-move{
+  position: relative;
+}
+.login-area {
+  position: absolute;
+  right: 1rem;
+}
+}
+@media (max-width: 425px) and (min-width: 320px){
+      .sal-client-chart {
+     display: block!important;
+   }
+   .det-client-chart {
+     margin-left: 0!important;
+}
+.all-clien-sayt {
+    margin-top: 2rem !important;
+}
+.coom-2-client {
+    display: flex;
+     margin-left: 0!important;
+    margin-bottom: 10px;
+}
+.inner-tahes {
+    display: inherit;
+}
+.inner-tahes {
+     padding: 20px 0; 
+     display: block!important;
+}
+.coomm-2client-img img {
+    border-radius: 300px;
+    height: 70px !important;
+    width: 70px !important;
+}
+.mar-nened{
+  margin-left: 20px!important;
+}
+.lave-tree-form {
+     display: block!important;
+}
+.email-fred {
+     margin: 0 !important;
+}
+.inner-tahes ul li a {
+  font-size: small;
+  color: #a6a6a6;
+}
+      .al-img-at1 a img {
+    width: 30px!important;
+    height: 30px !important;
+    border-radius: 32px;
+}
+      .al-img-at1 p {
+    font-size: 10px;
+    margin-left: 5px;
+}
+.al-img-at2 p {
+    margin-left: 2px !important;
+}
+.al-img-at2 a {
+    margin-left: 4px !important;
+}
+ .al-img-at2 p {
+    font-size: 10px;
+    margin-left: 5px;
+}
+.al-img-at3 p {
+    margin-left: 2px!important;
+}
+.al-img-at3 a {
+    margin-left: 4px!important;
+}
+ .al-img-at3 p {
+    font-size: 10px;
+    margin-left: 5px;
+}
+.al-img-at1 p {
+    margin-left: 4px !important;
+}
+  .clients-desnigation {
+    margin-left: 0px!important;
+}
+  .client-info-rev {
+    display: inherit;
+    margin-top: 30px;
+    text-align: center;
+}
+   .tour-main-informa h6 {
+    font-size: 7px!important;
+}
+.tour-main-informa {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid #ff9d34;
+    padding: 9px 0px;
+    margin-top: 30px;
+}
+   .coa-app {
+  
+    margin-bottom: 10px;
+}
+    .ter-item-one {
+    text-align: center;
+    width: 18%;
+}
+.all-ineer-der-ter img {
+    padding-top: 16px;
+    width: 81%;
+}
+.gift-img img {
+    padding: 2px;
+    width: 76%;
+}
+.des-ter h6 {
+    font-size: 15px;
+    color: #fff;
+    margin-top: 28px;
+}
+.des-ter p {
+    font-size: 12px;
+    color: #fff;
+    line-height: 20px;
+    margin-top: 12px;
+}
+.#padding-top .container {
+    padding-top: 2rem !important;
+}
+#padding-top .container {
+    padding-top: 2rem !important;
+}
+.vt-video {
+    position: relative;
+    margin-top: -500px  !important;;
+    align-items: center;
+    overflow: hidden;
+}
+  .main-loc-text p {
+    font-size: 9px;
+    padding-right: 0px !important;
+  }
+  .text-center-top{
+   justify-content: center!important;
+ }
+ .login-area-move{
+  display: none;
+}
+
+.login-area{
+  padding-left: 0px !important;
+} 
+.navbar-expand-lg{
+  padding: 5px !important;
+}
+#top-heder-nav .nav-link {
+  padding: 20px 5px;
+  border-bottom: 1px solid #fff;
+  width: 100%;
+  border-top: 1px solid #fff;
+  background: #ff9d341f;
+}
+#top-heder-nav .navbar-nav {
+ padding: 10px;
+ border-radius: 5px;
+}
+#footer-all-page{
+ padding: 20px 0!important;
+}
+.border-icon{
+ border-radius: 6px !important;
+ width: 22px !important;
+ height: 20px !important;
+ color: #013864;
+}
+ul{
+  padding: 0px !important;
+}
+.navbar-expand-lg{
+ 
+  padding-left: 15px !important;
+  padding-right: 6px !important;
+}
+.coa-app {
+   
+    margin-bottom: 10px;
+}
+}

@@ -1,0 +1,105 @@
+@media screen and (max-width: 320px) {
+	.accordion {
+		font-size: 14px;
+	}
+	#body-faqs button {
+		height: 65px;
+		position: relative;
+	}
+	#body-faqs .row{
+		width: 100%;
+	}
+	.table{
+		padding-right: 0;
+		margin-top: 30px;
+	}
+	.accordion:after {
+		position: absolute;
+		right: 8px;
+		top: 28%;
+	}
+}
+@media (min-width: 321px) and (max-width: 375px) {
+	.accordion {
+		font-size: 16px;
+	}
+	#body-faqs button {
+		height: 65px;
+		position: relative;
+	}
+	#body-faqs .row{
+		width: 100%;
+	}
+	.table{
+		padding-right: 0;
+		margin-top: 30px;
+	}
+	.accordion:after {
+		position: absolute;
+		right: 8px;
+		top: 28%;
+	}
+}
+@media (min-width: 376px) and (max-width: 425px) {
+	.accordion {
+		font-size: 16px;
+	}
+	#body-faqs button {
+		height: 65px;
+		position: relative;
+	}
+	#body-faqs .row{
+		width: 100%;
+	}
+	.table{
+		padding-right: 0;
+		margin-top: 30px;
+	}
+	.accordion:after {
+		position: absolute;
+		right: 8px;
+		top: 28%;
+	}
+}
+@media (min-width: 426px) and (max-width: 768px) {
+	.accordion {
+		font-size: 16px;
+	}
+	#body-faqs button {
+		height: 65px;
+		position: relative;
+	}
+	#body-faqs .row{
+		width: 100%;
+	}
+	.table{
+		padding-right: 0;
+		margin-top: 30px;
+	}
+	.accordion:after {
+		position: absolute;
+		right: 8px;
+		top: 28%;
+	}
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+	.accordion {
+		font-size: 20px;
+	}
+	#body-faqs button {
+		height: 65px;
+		position: relative;
+	}
+	#body-faqs .row{
+		width: 100%;
+	}
+	.table{
+		padding-right: 0;
+		margin-top: 30px;
+	}
+	.accordion:after {
+		position: absolute;
+		right: 8px;
+		top: 28%;
+	}
+}

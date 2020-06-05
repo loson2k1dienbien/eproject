@@ -1,0 +1,23 @@
+#banner-tourpackges{
+	background-image: url("../img/images project/faq.png");
+	background-size:cover;
+	padding: 150px 0;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	text-align: center;
+}
+#banner-tourpackges h2{
+	color: #fff;
+	font-weight: bold;
+	font-size: 48px;
+	line-height: 83px;
+}
+#banner-tourpackges a,#banner-tourpackges span{
+	color: #fff;
+	font-weight: 400;
+	font-size: 25px;
+}
+#banner-tourpackges a:hover{
+	color: #ff9d34;
+  text-decoration: none;
+}

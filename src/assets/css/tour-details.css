@@ -1,0 +1,439 @@
+
+  /*-----------------------------------------
+			1.tour-packes-deatils page
+----------------------------------------*/
+
+  #tour-packes-deatils {
+      background-image: url(../img/tour/packges-bnner.png);
+      background-size: cover;
+      background-repeat: no-repeat;
+      padding: 150px 0 150px 0;
+      background-position: bottom;
+
+  }
+/*-------------------------------- 
+	1.tour-details main content
+-----------------------------------*/
+
+  #tour-detailes-main {
+      padding: 100px 0;
+  }
+
+  .tour-heading-detailse h2 span {
+      color: #ff9d34;
+  }
+
+  .tour-heading-detailse h2 {
+      margin: 10px 0;
+  }
+
+  .tour-heading-detailse h6 {}
+
+  .start-icon-deta a i {
+      color: #ff9d34;
+      font-size: 18px;
+  }
+
+  .revews h6 {
+      font-size: 18px;
+      font-weight: 600;
+      margin-top: 15px;
+      margin-left: 37px;
+  }
+
+  .start-text-details {
+      display: flex;
+  }
+
+  .start-icon-deta {
+      margin-top: 15px;
+  }
+
+  .tour-main-informa {
+      display: flex;
+      justify-content: space-around;
+      border: 2px solid #ff9d34;
+      padding: 18px 0;
+      margin-top: 30px;
+  }
+
+  .tour-main-informa h6 span {
+      margin-left: 24px;
+  }
+
+  .tour-main-informa h6 {
+      font-size: 18px;
+      color: #777c87;
+  }
+
+  .det-asor-img img {
+      margin-top: 30px;
+      width: 100%;
+  }
+
+  .rweal-reat {
+      margin-top: 25px;
+  }
+
+  .rweal-reat p {
+      margin-top: 20px;
+  }
+
+  .packages-includ {
+      margin-top: 50px;
+  }
+
+  .right-includ {}
+
+  .right-includ ul li {
+      font-size: 16px;
+      line-height: 1;
+      font-family: 'Poppins', sans-serif;
+      margin-top: 30px;
+      color: #777c87;
+      font-weight: 400;
+      letter-spacing: 0.25px;
+  }
+
+  .right-includ ul li i {
+      color: #ff9d34;
+      margin-right: 10px;
+  }
+
+  .left-includ ul li i {
+      color: red;
+      margin-right: 10px;
+  }
+
+  .all-ul-includ {
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .map-inclid {
+      margin-top: 50px;
+  }
+
+  .map-inclid iframe {
+      width: 100%;
+      margin-top: 30px;
+      border: 3px solid #ff9d34;
+  }
+
+  .client-revews {
+      margin-top: 50px;
+  }
+
+  .clients-desnigation h6 {
+      font-size: 18px;
+      color: #777c87;
+      margin-top: 10px;
+      font-weight: 600;
+  }
+
+  .cliennt-img img {
+      width: 152px;
+      height: 155px;
+  }
+
+  .clients-desnigation p {
+      margin-top: 10px;
+  }
+
+  .client-info-rev {
+      
+      margin-top: 30px;
+  }
+
+  .clients-desnigation {
+      margin-left: 40px;
+  }
+
+  .clients-para {
+      margin-top: 30px;
+  }
+
+  .clients-para h6 {
+      font-size: 18px;
+      font-weight: 600;
+  }
+
+  .clients-para p {
+      margin-top: 18px;
+  }
+
+  .start-one-ras {
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .client-start-comment {
+      background: #ff9d33;
+      padding: 50px;
+      border-radius: 20px;
+      margin-top: 56px
+  }
+
+  .start-one-ras h6 {
+      font-size: 18px;
+      color: #fff;
+      margin-bottom: 20px;
+  }
+
+  .start-one-ras i {}
+
+  .all-women-heading h3 {
+      font-weight: 600;
+      color: #fff;
+      letter-spacing: 1.1px;
+      margin-bottom: 40px;
+  }
+
+  .revs-form .form-control {
+      background: transparent;
+      border: 1px solid #fff;
+      border-radius: 0;
+      font-size: 16px;
+      color: #fff;
+      height: 45px;
+      padding: 10px 22px;
+      font-family: 'Poppins', sans-serif;
+  }
+
+  .revs-form .nessage-text .form-control {
+      height: auto;
+  }
+
+  .revs-form ::-webkit-input-placeholder {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 100;
+  }
+
+  .revs-form ::-moz-placeholder {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 100;
+  }
+
+  .revs-form :-ms-input-placeholder {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 100;
+  }
+
+  .revs-form ::-ms-input-placeholder {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 100;
+  }
+
+  .revs-form ::placeholder {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 100;
+  }
+
+  .revs-form {
+      margin-top: 35px;
+  }
+
+  .all-pacj-dfgh {}
+
+  .all-pacj-dfgh h6 {
+      font-size: 24px;
+      background: #014073;
+      padding: 20px 31px 20px 30px;
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: 1.1px;
+  }
+
+  .booking-info #datepicker-5 {
+      height: 45px;
+      width: 100%;
+  }
+
+  #datepicker-5 .form-control {
+      padding: 0 50px;
+      height: 45px;
+      background: transparent;
+      border: 2px solid #fff;
+      border-radius: 0;
+      color: #fff;
+  }
+
+  #datepicker-5>span {
+      position: absolute;
+      left: 18px;
+      z-index: 9;
+      color: #ffffff;
+      top: 11px;
+      font-size: 20px;
+  }
+
+  .booking-info #datepicker-6 {
+      height: 45px;
+      width: 100%;
+  }
+
+  #datepicker-6 .form-control {
+      padding: 0 50px;
+      height: 45px;
+      background: transparent;
+      border: 2px solid #fff;
+      border-radius: 0;
+      color: #fff;
+  }
+
+  #datepicker-6>span {
+      position: absolute;
+      left: 18px;
+      z-index: 9;
+      color: #ffffff;
+      top: 11px;
+      font-size: 20px;
+  }
+
+  .bookk0-natd-form {
+      background: #ff9d34;
+      padding: 24px 25px 55px 25px;
+  }
+
+  .bookk0-natd-form ::-webkit-input-placeholder {
+      color: #fff;
+      font-size: 16px;
+  }
+
+  .bookk0-natd-form :-ms-input-placeholder {
+      color: #fff;
+      font-size: 16px;
+  }
+
+  .bookk0-natd-form::placeholder {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 100;
+  }
+
+  .booking-alrtu label {
+      margin: 0;
+      font-size: 18px;
+      font-family: 'Poppins', sans-serif;
+      color: #fff;
+      font-weight: 600;
+      margin-bottom: 20px;
+      margin-top: 20px;
+  }
+
+  .booking-alrtu select {
+      background: #ff9d34;
+      padding: 6px 0px 6px 17px;
+      height: 45px;
+      width: 100%;
+      color: #ffffff;
+      font-size: 17px;
+      border: 2px solid;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 500;
+      border-radius: 0;
+      position: relative;
+      cursor: pointer;
+  }
+
+  .booking-alrtu select {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+  }
+
+  .serv-ivmf {
+      position: absolute;
+      right: 20px;
+      top: 74px;
+      color: #fff;
+  }
+
+  .booking-alrtu {
+      position: relative;
+  }
+
+  .widet {
+      width: 100%;
+  }
+
+  .sunb-btn-naple {
+      margin-top: 30px;
+  }
+.submit {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 0;
+    padding: 7px 25px;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    text-transform: uppercase;
+    font-weight: 500;
+    transition: 1.2s;
+    background: #014073;
+}
+.bookk0-natd-form label {
+      margin: 0;
+      font-size: 18px;
+      font-family: 'Lato', sans-serif;
+      color: #fff;
+      font-weight: 600;
+      margin-bottom: 20px;
+      margin-top: 10px;
+      letter-spacing: .25px;
+  }
+
+  .bookk0-natd-form .form-control {
+      padding: 0 20px;
+      height: 45px;
+      background: transparent;
+      border: 2px solid #fff;
+      border-radius: 0;
+      color: #fff;
+  }
+
+  .bookk0-natd-form select {
+      background: #ff9d34;
+      padding: 6px 0px 6px 17px;
+      height: 45px;
+      width: 100%;
+      color: #ffffff;
+      font-size: 17px;
+      border: 2px solid;
+      font-weight: 500;
+      border-radius: 0;
+      position: relative;
+      cursor: pointer;
+  }
+.price-tour h2 {
+    font-size: 50px;
+    text-align: right;
+    line-height: 112px;
+}
+.price-tour {
+    width: 47%;
+}
+.price-tour span {
+    font-size: 50px;
+   color: #ff9d34;
+}
+.right-includ ul li .fa-times-circle{
+    color: red;
+    margin-right: 6px;
+}
+.right-includ ul li .fa-check-circle{
+    color: #ff9d34;
+    margin-right: 6px;
+
+
+}
+.border-date{
+  border: 2px solid #fff!important;
+}
