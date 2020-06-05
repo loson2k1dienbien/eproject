@@ -1,0 +1,12 @@
+@media screen and (max-width: 320px){
+	#about-tourpackges .search-option {
+    	position: absolute;
+    	top: 657px;
+	}
+	.select-product {
+    	text-align: center;
+    	color: #014073;
+    	font-weight: bold;
+    	margin-top: 246px;
+	}
+}

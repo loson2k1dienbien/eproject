@@ -1,0 +1,209 @@
+#service-main-banner {
+    background-image: url(../img/service/service.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    background-position: bottom;
+}
+.common-sub-heading h6 a {
+    color: #fff;
+}
+.common-heading h1{
+	color: #fff;
+}
+.service-deta-ovjet{
+	visibility: visible;
+    animation-duration: 1.5s;
+    animation-name: fadeIn;
+}
+.weject-on{
+	    box-shadow: 0px 0px 11px -6px #01467c;
+    padding: 30px 15px 30px 15px;
+    transition: 1.2s;
+}
+.weject-on h6 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+        color: #014073;
+}
+#padding-top .container{
+	padding-top: 6rem;
+}
+.ser-ab-deta {
+	padding-top: 6rem;
+}
+h2 {
+    font-size: 36px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #014073;
+    margin: 0;
+    letter-spacing: 0.25px;
+    line-height: 48px;
+}
+.service-heading h2 span {
+    color: #ff9d34 !important;
+}
+.service-heading h2  {
+    margin-right: 5rem;
+}
+#home-testimonial-top {
+    background-image: url(../img/service/t-bg.png);
+    background-size: cover;
+    padding: 120px 0 390px 0;
+    background-repeat: no-repeat;
+}
+.content-box{
+	margin-top: 10px;
+	    text-align: center;
+    margin-bottom: 50px;
+
+}
+.color-1{
+	 color: #a6d7ff;
+}
+.color-2{
+	    color: #fff;
+}
+.vt-video{
+	 position: relative;
+    margin-top: -390px;
+    align-items: center;
+    overflow: hidden;
+}
+/*--------------------------------------
+			9.team area
+-------------------------------------*/
+
+  .home-team {
+      padding: 100px 0;
+  }
+  .content-box h2 span {
+    color: #ff9d34;
+  }
+
+  .coa-app img {
+      display: block;
+      width: 100%;
+      height: auto;
+  }
+
+  .coa-app {
+      position: relative;
+  }
+
+  .team-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(284deg, rgba(43, 44, 117, 0) 33%, rgba(245, 125, 45, 0.88) 19%);
+      overflow: hidden;
+      width: 0%;
+      height: 100%;
+      transition: .5s ease;
+  }
+
+  .coa-app:hover .team-overlay {
+      width: 100%;
+  }
+
+  .team-contact h6 {
+      color: #fff;
+      margin-top: 24px;
+  }
+
+  .team-contact p {
+      color: #fff;
+      font-size: 16px
+  }
+
+  .team-icon {
+      margin-top: 20px;
+        position: absolute;
+  }
+
+  .team-over {
+     padding: 2px;
+      border: 1px solid #fff;
+      border-radius: 112px;
+      color: #fff;
+      font-size: 25px;
+      margin-right: 6px;
+      transition: 3s;
+            position: relative;
+      align-items: center;
+  }
+
+  .team-over:hover {
+      border: 2px solid #014073;
+      color: #014073;
+      transition: 2s;
+  }
+
+  .no-te {
+     padding: 2px !important;
+    width: 1.065em !important;
+  }
+
+  .team-contact {
+      position: absolute;
+      left: 30px;
+      top: 60px;
+      display: none;
+      transition: 3s;
+  }
+
+  .coa-app:hover .team-contact {
+      display: block;
+  }
+  .btn-4 {
+      color: #fff;
+      border: 1px solid #fff;
+      border-radius: 0;
+      padding: 7px 25px;
+      font-family: 'Poppins', sans-serif;
+      position: relative;
+      z-index: 1;
+      overflow: hidden;
+      text-transform: uppercase;
+      font-weight: 500;
+      -webkit-transition: 1.2s;
+      -o-transition: 1.2s;
+      transition: 1.2s;
+  }
+.no-team{
+	    padding: 3px;
+    width: 1.6rem  !important;
+}
+ .logo-slilder {
+      margin-top: 100px;
+  }
+.all-logo{
+	text-align: center;
+}
+.all-logo-img {
+      margin: 0 30px;
+      opacity: .3;
+    width: 60% !important;
+  }
+
+  .all-logo img:hover {
+      opacity: 1;
+  }
+  
+/* .owl-item {
+ margin-right: 0px !important;
+ 
+}  */
+.owl-carousel .owl-stage-outer
+.owlcss .owl-item{
+	 margin-right: 0px !important;
+}
+.owlcss .owl-stage-outer .owl-stage .owl-item {
+	 margin-right: 0px !important;
+}
+video {
+    object-fit: cover;
+}
